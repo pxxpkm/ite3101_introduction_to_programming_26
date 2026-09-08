@@ -1,4 +1,4 @@
-january_to_june_rainfall = 5.16 + 7.20 + 5.06 + 4.0
+january_to_june_rainfall = 5.16 + 7.20 + 5.06 + 4.06
 annual_rainfall = january_to_june_rainfall
 
 july_rainfall = 1.05
