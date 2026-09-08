@@ -1,2 +1,2 @@
 greeting_message = "todays_date" 
-current_excercise = 
+current_excercise = 8
