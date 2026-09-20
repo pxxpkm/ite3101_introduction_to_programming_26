@@ -4,13 +4,13 @@
 bool_one = 3 < 5  # We already did this one for you!
 
 # Make me false!
-bool_two = None
+bool_two = 5 < 3
 
 # Make me true!
-bool_three = None
+bool_three = 4 == 4
 
 # Make me false!
-bool_four = None
+bool_four = 5 != 5
 
 # Make me true!
-bool_five = None
+bool_five = 6 >= 5
