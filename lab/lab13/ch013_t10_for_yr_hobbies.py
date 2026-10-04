@@ -3,7 +3,8 @@ hobbies = []
 
 # Add your code below!
 for i in range(3):
-    hobbies.append(input("Enter a hobby: "))
+    hobby = input("Enter a hobby: ")
+    hobbies.append(hobby)
 
 
 print(hobbies)
