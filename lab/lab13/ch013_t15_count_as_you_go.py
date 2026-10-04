@@ -1,5 +1,6 @@
 choices = ['pizza', 'pasta', 'salad', 'nachos']
 
+
 print('Your choices are:')
-for index, item in enumerate(choices):
+for index, item in enumerate(choices, 1):
     print(index, item)

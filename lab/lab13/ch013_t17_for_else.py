@@ -1,5 +1,6 @@
 fruits = ['banana', 'apple', 'orange', 'tomato', 'pear', 'grape']
 
+
 print('You have...')
 for f in fruits:
     if f == 'tomato':
