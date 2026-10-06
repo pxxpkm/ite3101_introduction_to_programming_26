@@ -2,7 +2,7 @@
 from typing import List
 
 
-def fizz_count(x: List):
+def fizz_count(x: List[s]):
     count = 0
     for item in x:
         if item == "fizz":
