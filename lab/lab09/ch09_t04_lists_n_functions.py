@@ -1,6 +1,7 @@
 # Write your function below!
 from typing import List
 
+
 def fizz_count(x: list(str)):
     count = 0
     for item in x:
