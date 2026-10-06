@@ -10,3 +10,4 @@ def fizz_count(x: List[str]):
     return counrn
 
 
+print(fizz_count(["fizz","cat","fizz"]))
