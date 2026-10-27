@@ -31,4 +31,4 @@ def random_col(board_in: List[List[str]]) -> int:
 
 
 ship_row = random_row(board)
-ship_col = random_col(board)
+ship_col = random_col(board
