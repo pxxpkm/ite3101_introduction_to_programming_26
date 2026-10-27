@@ -18,4 +18,4 @@ def print_board(board_in: List[List[str]]) -> None:
 
 
 
-def print_board(board_in: List:)
+def print_board(board_in: List:[])
